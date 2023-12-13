@@ -1,0 +1,50 @@
+mat-grid-tile{
+  background-color:#f0f5fb ;
+}
+
+.demo-table {
+    width: 100%;
+    background-color:#f0f5fb ;
+  }
+  .mat-expansion-panel{
+    background-color:#47a1f6 ;
+   
+   
+  }
+  .mat-expansion-panel-header{
+    font-size: 20px;
+   
+  }
+  .mat-expansion-panel-header mat-panel-title{
+    color: #668094;
+  }
+  .mat-column-demo-userId {
+    width: 32px;
+    border-right: 1px solid currentColor;
+    padding-right: 24px;
+    text-align: center;
+    color:  #668094;
+  }
+  
+  .mat-column-demo-body {
+    padding-left: 16px;
+    border-right: 1px solid currentColor;
+    font-size: 20px;
+    color:  #668094;
+  }
+  
+  .mat-column-demo-id {
+    font-style: italic;
+    width: 7%;
+    text-align: center;
+    color:  #668094;
+    border-right: 1px solid currentColor;
+  }
+  .mat-column-demo-title {
+    width: 20%;
+    font-style: italic;
+    color:  #668094;
+    text-align: center;
+    border-right: 1px solid currentColor;
+  }
+  
